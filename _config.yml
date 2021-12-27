@@ -30,9 +30,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+#theme: minima
 #remote_theme: "matthewnicotra/hydejack-matthewnicotra"
-#remote_theme: "matthewnicotra/basically-basic-matthewnicotra"
+remote_theme: "matthewnicotra/basically-basic-matthewnicotra"
 #remote_theme: "hydecorp/hydejack"
 #remote_theme: "hydecorp/hydejack-starter-kit"
 plugins:
